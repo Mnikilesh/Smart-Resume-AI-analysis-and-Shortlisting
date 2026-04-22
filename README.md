@@ -1,3 +1,5 @@
+Project is live: https://huggingface.co/spaces/nikileshmamidala/Resume-Analyzer
+
 ---
 title: Smart AI Resume Builder
 emoji: 🧠
